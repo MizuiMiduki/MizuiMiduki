@@ -1,4 +1,4 @@
-###瑞井です。いろいろやってる人です。よろしくお願いします。
+### 瑞井です。いろいろやってる人です。よろしくお願いします。
 
 <!--
 **MizuiMiduki/MizuiMiduki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
