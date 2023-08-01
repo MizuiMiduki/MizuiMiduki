@@ -9,4 +9,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MizuiMiduki&repo=3moji_random_ba)](https://github.com/MizuiMiduki/3moji_random_ba)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MizuiMiduki&repo=4moji_random_ba)](https://github.com/MizuiMiduki/4moji_random_ba)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MizuiMiduki&repo=NVNB-RSS-Auto-Post-and-Note)](https://github.com/MizuiMiduki/NVNB-RSS-Auto-Post-and-Note)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MizuiMiduki&repo=random_alphabet_ba)](https://github.com/MizuiMiduki/Nrandom_alphabet_ba)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MizuiMiduki&repo=random_alphabet_ba)](https://github.com/MizuiMiduki/random_alphabet_ba)
